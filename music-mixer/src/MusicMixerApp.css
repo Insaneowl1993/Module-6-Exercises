@@ -1,0 +1,13 @@
+/* MusicMixerApp.css */
+.music-mixer-app {
+    text-align: center;
+    margin: 20px;
+  }
+  
+  .instrument-container {
+    display: flex;
+    justify-content: space-around;
+    margin-top: 20px;
+  }
+  
+  /* Add more styles as needed */

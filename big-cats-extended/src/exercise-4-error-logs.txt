@@ -1,0 +1,203 @@
+VM15:1 MUI: The `query` argument provided is invalid.
+You are providing a function without a theme in the context.
+One of the parent elements needs to use a ThemeProvider.
+eval @ VM15:1
+useMediaQuery @ react-admin.js?v=b362e2d6:43375
+TopToolbar @ react-admin.js?v=b362e2d6:98369
+renderWithHooks @ chunk-YAPSZIQJ.js?v=b362e2d6:12169
+mountIndeterminateComponent @ chunk-YAPSZIQJ.js?v=b362e2d6:14919
+beginWork @ chunk-YAPSZIQJ.js?v=b362e2d6:15900
+beginWork$1 @ chunk-YAPSZIQJ.js?v=b362e2d6:19747
+performUnitOfWork @ chunk-YAPSZIQJ.js?v=b362e2d6:19192
+workLoopSync @ chunk-YAPSZIQJ.js?v=b362e2d6:19131
+renderRootSync @ chunk-YAPSZIQJ.js?v=b362e2d6:19110
+performConcurrentWorkOnRoot @ chunk-YAPSZIQJ.js?v=b362e2d6:18672
+workLoop @ chunk-YAPSZIQJ.js?v=b362e2d6:195
+flushWork @ chunk-YAPSZIQJ.js?v=b362e2d6:174
+performWorkUntilDeadline @ chunk-YAPSZIQJ.js?v=b362e2d6:382
+Show 13 more frames
+Show less
+VM15:1 MUI: The `query` argument provided is invalid.
+You are providing a function without a theme in the context.
+One of the parent elements needs to use a ThemeProvider.
+eval @ VM15:1
+useMediaQuery @ react-admin.js?v=b362e2d6:43375
+TopToolbar @ react-admin.js?v=b362e2d6:98369
+renderWithHooks @ chunk-YAPSZIQJ.js?v=b362e2d6:12169
+mountIndeterminateComponent @ chunk-YAPSZIQJ.js?v=b362e2d6:14919
+beginWork @ chunk-YAPSZIQJ.js?v=b362e2d6:15900
+callCallback2 @ chunk-YAPSZIQJ.js?v=b362e2d6:3672
+invokeGuardedCallbackDev @ chunk-YAPSZIQJ.js?v=b362e2d6:3697
+invokeGuardedCallback @ chunk-YAPSZIQJ.js?v=b362e2d6:3731
+beginWork$1 @ chunk-YAPSZIQJ.js?v=b362e2d6:19759
+performUnitOfWork @ chunk-YAPSZIQJ.js?v=b362e2d6:19192
+workLoopSync @ chunk-YAPSZIQJ.js?v=b362e2d6:19131
+renderRootSync @ chunk-YAPSZIQJ.js?v=b362e2d6:19110
+performConcurrentWorkOnRoot @ chunk-YAPSZIQJ.js?v=b362e2d6:18672
+workLoop @ chunk-YAPSZIQJ.js?v=b362e2d6:195
+flushWork @ chunk-YAPSZIQJ.js?v=b362e2d6:174
+performWorkUntilDeadline @ chunk-YAPSZIQJ.js?v=b362e2d6:382
+Show 16 more frames
+Show less
+react-admin.js?v=b362e2d6:98370 Uncaught TypeError: Cannot read properties of null (reading 'breakpoints')
+    at react-admin.js?v=b362e2d6:98370:18
+    at useMediaQuery (react-admin.js?v=b362e2d6:43378:50)
+    at TopToolbar (react-admin.js?v=b362e2d6:98369:18)
+    at renderWithHooks (chunk-YAPSZIQJ.js?v=b362e2d6:12169:26)
+    at mountIndeterminateComponent (chunk-YAPSZIQJ.js?v=b362e2d6:14919:21)
+    at beginWork (chunk-YAPSZIQJ.js?v=b362e2d6:15900:22)
+    at HTMLUnknownElement.callCallback2 (chunk-YAPSZIQJ.js?v=b362e2d6:3672:22)
+    at Object.invokeGuardedCallbackDev (chunk-YAPSZIQJ.js?v=b362e2d6:3697:24)
+    at invokeGuardedCallback (chunk-YAPSZIQJ.js?v=b362e2d6:3731:39)
+    at beginWork$1 (chunk-YAPSZIQJ.js?v=b362e2d6:19759:15)
+    at performUnitOfWork (chunk-YAPSZIQJ.js?v=b362e2d6:19192:20)
+    at workLoopSync (chunk-YAPSZIQJ.js?v=b362e2d6:19131:13)
+    at renderRootSync (chunk-YAPSZIQJ.js?v=b362e2d6:19110:15)
+    at performConcurrentWorkOnRoot (chunk-YAPSZIQJ.js?v=b362e2d6:18672:83)
+    at workLoop (chunk-YAPSZIQJ.js?v=b362e2d6:195:42)
+    at flushWork (chunk-YAPSZIQJ.js?v=b362e2d6:174:22)
+    at MessagePort.performWorkUntilDeadline (chunk-YAPSZIQJ.js?v=b362e2d6:382:29)
+(anonymous) @ react-admin.js?v=b362e2d6:98370
+useMediaQuery @ react-admin.js?v=b362e2d6:43378
+TopToolbar @ react-admin.js?v=b362e2d6:98369
+renderWithHooks @ chunk-YAPSZIQJ.js?v=b362e2d6:12169
+mountIndeterminateComponent @ chunk-YAPSZIQJ.js?v=b362e2d6:14919
+beginWork @ chunk-YAPSZIQJ.js?v=b362e2d6:15900
+callCallback2 @ chunk-YAPSZIQJ.js?v=b362e2d6:3672
+invokeGuardedCallbackDev @ chunk-YAPSZIQJ.js?v=b362e2d6:3697
+invokeGuardedCallback @ chunk-YAPSZIQJ.js?v=b362e2d6:3731
+beginWork$1 @ chunk-YAPSZIQJ.js?v=b362e2d6:19759
+performUnitOfWork @ chunk-YAPSZIQJ.js?v=b362e2d6:19192
+workLoopSync @ chunk-YAPSZIQJ.js?v=b362e2d6:19131
+renderRootSync @ chunk-YAPSZIQJ.js?v=b362e2d6:19110
+performConcurrentWorkOnRoot @ chunk-YAPSZIQJ.js?v=b362e2d6:18672
+workLoop @ chunk-YAPSZIQJ.js?v=b362e2d6:195
+flushWork @ chunk-YAPSZIQJ.js?v=b362e2d6:174
+performWorkUntilDeadline @ chunk-YAPSZIQJ.js?v=b362e2d6:382
+Show 17 more frames
+Show less
+VM15:1 MUI: The `query` argument provided is invalid.
+You are providing a function without a theme in the context.
+One of the parent elements needs to use a ThemeProvider.
+eval @ VM15:1
+useMediaQuery @ react-admin.js?v=b362e2d6:43375
+TopToolbar @ react-admin.js?v=b362e2d6:98369
+renderWithHooks @ chunk-YAPSZIQJ.js?v=b362e2d6:12169
+mountIndeterminateComponent @ chunk-YAPSZIQJ.js?v=b362e2d6:14919
+beginWork @ chunk-YAPSZIQJ.js?v=b362e2d6:15900
+beginWork$1 @ chunk-YAPSZIQJ.js?v=b362e2d6:19747
+performUnitOfWork @ chunk-YAPSZIQJ.js?v=b362e2d6:19192
+workLoopSync @ chunk-YAPSZIQJ.js?v=b362e2d6:19131
+renderRootSync @ chunk-YAPSZIQJ.js?v=b362e2d6:19110
+recoverFromConcurrentError @ chunk-YAPSZIQJ.js?v=b362e2d6:18730
+performConcurrentWorkOnRoot @ chunk-YAPSZIQJ.js?v=b362e2d6:18678
+workLoop @ chunk-YAPSZIQJ.js?v=b362e2d6:195
+flushWork @ chunk-YAPSZIQJ.js?v=b362e2d6:174
+performWorkUntilDeadline @ chunk-YAPSZIQJ.js?v=b362e2d6:382
+Show 14 more frames
+Show less
+VM15:1 MUI: The `query` argument provided is invalid.
+You are providing a function without a theme in the context.
+One of the parent elements needs to use a ThemeProvider.
+eval @ VM15:1
+useMediaQuery @ react-admin.js?v=b362e2d6:43375
+TopToolbar @ react-admin.js?v=b362e2d6:98369
+renderWithHooks @ chunk-YAPSZIQJ.js?v=b362e2d6:12169
+mountIndeterminateComponent @ chunk-YAPSZIQJ.js?v=b362e2d6:14919
+beginWork @ chunk-YAPSZIQJ.js?v=b362e2d6:15900
+callCallback2 @ chunk-YAPSZIQJ.js?v=b362e2d6:3672
+invokeGuardedCallbackDev @ chunk-YAPSZIQJ.js?v=b362e2d6:3697
+invokeGuardedCallback @ chunk-YAPSZIQJ.js?v=b362e2d6:3731
+beginWork$1 @ chunk-YAPSZIQJ.js?v=b362e2d6:19759
+performUnitOfWork @ chunk-YAPSZIQJ.js?v=b362e2d6:19192
+workLoopSync @ chunk-YAPSZIQJ.js?v=b362e2d6:19131
+renderRootSync @ chunk-YAPSZIQJ.js?v=b362e2d6:19110
+recoverFromConcurrentError @ chunk-YAPSZIQJ.js?v=b362e2d6:18730
+performConcurrentWorkOnRoot @ chunk-YAPSZIQJ.js?v=b362e2d6:18678
+workLoop @ chunk-YAPSZIQJ.js?v=b362e2d6:195
+flushWork @ chunk-YAPSZIQJ.js?v=b362e2d6:174
+performWorkUntilDeadline @ chunk-YAPSZIQJ.js?v=b362e2d6:382
+Show 17 more frames
+Show less
+react-admin.js?v=b362e2d6:98370 Uncaught TypeError: Cannot read properties of null (reading 'breakpoints')
+    at react-admin.js?v=b362e2d6:98370:18
+    at useMediaQuery (react-admin.js?v=b362e2d6:43378:50)
+    at TopToolbar (react-admin.js?v=b362e2d6:98369:18)
+    at renderWithHooks (chunk-YAPSZIQJ.js?v=b362e2d6:12169:26)
+    at mountIndeterminateComponent (chunk-YAPSZIQJ.js?v=b362e2d6:14919:21)
+    at beginWork (chunk-YAPSZIQJ.js?v=b362e2d6:15900:22)
+    at HTMLUnknownElement.callCallback2 (chunk-YAPSZIQJ.js?v=b362e2d6:3672:22)
+    at Object.invokeGuardedCallbackDev (chunk-YAPSZIQJ.js?v=b362e2d6:3697:24)
+    at invokeGuardedCallback (chunk-YAPSZIQJ.js?v=b362e2d6:3731:39)
+    at beginWork$1 (chunk-YAPSZIQJ.js?v=b362e2d6:19759:15)
+    at performUnitOfWork (chunk-YAPSZIQJ.js?v=b362e2d6:19192:20)
+    at workLoopSync (chunk-YAPSZIQJ.js?v=b362e2d6:19131:13)
+    at renderRootSync (chunk-YAPSZIQJ.js?v=b362e2d6:19110:15)
+    at recoverFromConcurrentError (chunk-YAPSZIQJ.js?v=b362e2d6:18730:28)
+    at performConcurrentWorkOnRoot (chunk-YAPSZIQJ.js?v=b362e2d6:18678:30)
+    at workLoop (chunk-YAPSZIQJ.js?v=b362e2d6:195:42)
+    at flushWork (chunk-YAPSZIQJ.js?v=b362e2d6:174:22)
+    at MessagePort.performWorkUntilDeadline (chunk-YAPSZIQJ.js?v=b362e2d6:382:29)
+(anonymous) @ react-admin.js?v=b362e2d6:98370
+useMediaQuery @ react-admin.js?v=b362e2d6:43378
+TopToolbar @ react-admin.js?v=b362e2d6:98369
+renderWithHooks @ chunk-YAPSZIQJ.js?v=b362e2d6:12169
+mountIndeterminateComponent @ chunk-YAPSZIQJ.js?v=b362e2d6:14919
+beginWork @ chunk-YAPSZIQJ.js?v=b362e2d6:15900
+callCallback2 @ chunk-YAPSZIQJ.js?v=b362e2d6:3672
+invokeGuardedCallbackDev @ chunk-YAPSZIQJ.js?v=b362e2d6:3697
+invokeGuardedCallback @ chunk-YAPSZIQJ.js?v=b362e2d6:3731
+beginWork$1 @ chunk-YAPSZIQJ.js?v=b362e2d6:19759
+performUnitOfWork @ chunk-YAPSZIQJ.js?v=b362e2d6:19192
+workLoopSync @ chunk-YAPSZIQJ.js?v=b362e2d6:19131
+renderRootSync @ chunk-YAPSZIQJ.js?v=b362e2d6:19110
+recoverFromConcurrentError @ chunk-YAPSZIQJ.js?v=b362e2d6:18730
+performConcurrentWorkOnRoot @ chunk-YAPSZIQJ.js?v=b362e2d6:18678
+workLoop @ chunk-YAPSZIQJ.js?v=b362e2d6:195
+flushWork @ chunk-YAPSZIQJ.js?v=b362e2d6:174
+performWorkUntilDeadline @ chunk-YAPSZIQJ.js?v=b362e2d6:382
+Show 18 more frames
+Show less
+VM15:1 The above error occurred in the <TopToolbar> component:
+
+    at TopToolbar (http://localhost:5174/node_modules/.vite/deps/react-admin.js?v=b362e2d6:98369:18)
+    at ListActions
+    at div
+    at App
+
+Consider adding an error boundary to your tree to customize error handling behavior.
+Visit https://reactjs.org/link/error-boundaries to learn more about error boundaries.
+eval @ VM15:1
+logCapturedError @ chunk-YAPSZIQJ.js?v=b362e2d6:14034
+update.callback @ chunk-YAPSZIQJ.js?v=b362e2d6:14054
+callCallback @ chunk-YAPSZIQJ.js?v=b362e2d6:10509
+commitUpdateQueue @ chunk-YAPSZIQJ.js?v=b362e2d6:10526
+commitLayoutEffectOnFiber @ chunk-YAPSZIQJ.js?v=b362e2d6:17081
+commitLayoutMountEffects_complete @ chunk-YAPSZIQJ.js?v=b362e2d6:17974
+commitLayoutEffects_begin @ chunk-YAPSZIQJ.js?v=b362e2d6:17963
+commitLayoutEffects @ chunk-YAPSZIQJ.js?v=b362e2d6:17914
+commitRootImpl @ chunk-YAPSZIQJ.js?v=b362e2d6:19347
+commitRoot @ chunk-YAPSZIQJ.js?v=b362e2d6:19271
+finishConcurrentRender @ chunk-YAPSZIQJ.js?v=b362e2d6:18754
+performConcurrentWorkOnRoot @ chunk-YAPSZIQJ.js?v=b362e2d6:18712
+workLoop @ chunk-YAPSZIQJ.js?v=b362e2d6:195
+flushWork @ chunk-YAPSZIQJ.js?v=b362e2d6:174
+performWorkUntilDeadline @ chunk-YAPSZIQJ.js?v=b362e2d6:382
+Show 15 more frames
+Show less
+chunk-YAPSZIQJ.js?v=b362e2d6:19407 Uncaught TypeError: Cannot read properties of null (reading 'breakpoints')
+    at react-admin.js?v=b362e2d6:98370:18
+    at useMediaQuery (react-admin.js?v=b362e2d6:43378:50)
+    at TopToolbar (react-admin.js?v=b362e2d6:98369:18)
+    at renderWithHooks (chunk-YAPSZIQJ.js?v=b362e2d6:12169:26)
+    at mountIndeterminateComponent (chunk-YAPSZIQJ.js?v=b362e2d6:14919:21)
+    at beginWork (chunk-YAPSZIQJ.js?v=b362e2d6:15900:22)
+    at beginWork$1 (chunk-YAPSZIQJ.js?v=b362e2d6:19747:22)
+    at performUnitOfWork (chunk-YAPSZIQJ.js?v=b362e2d6:19192:20)
+    at workLoopSync (chunk-YAPSZIQJ.js?v=b362e2d6:19131:13)
+    at renderRootSync (chunk-YAPSZIQJ.js?v=b362e2d6:19110:15)
+    at recoverFromConcurrentError (chunk-YAPSZIQJ.js?v=b362e2d6:18730:28)
+    at performConcurrentWorkOnRoot (chunk-YAPSZIQJ.js?v=b362e2d6:18678:30)
+    at workLoop (chunk-YAPSZIQJ.js?v=b362e2d6:195:42)
+    at flushWork (chunk-YAPSZIQJ.js?v=b362e2d6:174:22)
+    at MessagePort.performWorkUntilDeadline (chunk-YAPSZIQJ.js?v=b362e2d6:382:29)
